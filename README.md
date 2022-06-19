@@ -1,4 +1,4 @@
-Conjunto de Projetos disponibilizados por https://github.com/john-smilga no [youtube](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+Conjunto de Projetos disponibilizados por https://github.com/john-smilga no [youtube](https://www.youtube.com/watch?v=a_7Z7C_JCyo).
 
 ## Conceitos Aprendidos em Cada Projeto
 
